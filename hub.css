@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+span{
+    color: orange;
+}
+h1{
+    color: white;
+    padding-left: 15px;
+}
+a{
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
